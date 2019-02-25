@@ -1,0 +1,8 @@
+[package]
+authors = ["Jeff Muizelaar <jrmuizel@gmail.com>"]
+edition = "2018"
+name = "deadlock-rs"
+version = "0.1.0"
+
+[dependencies]
+typenum = "1.10.0"
